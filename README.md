@@ -1,2 +1,2 @@
-# PowerBi
-My PowerBi Dashboard
+# Nishant's Dashboards
+My PowerBi Dashboards
